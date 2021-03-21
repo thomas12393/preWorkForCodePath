@@ -4,7 +4,7 @@
 
 Submitted by: **Thomas Pawlowski**
 
-Time spent: **3 hours ** hours spent in total
+Time spent: **4 hours ** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/ash-petalite-icon)
 
@@ -45,7 +45,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.w3schools.com/jsref/jsref_length_array.asp]
+[https://www.w3schools.com/jsref/jsref_length_array.asp,https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random,https://www.w3schools.com/tags/ref_colornames.asp]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [When making the buttons and implementing the sound, I was not getting the sound when pressing any of the buttons. 
